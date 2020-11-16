@@ -3,7 +3,7 @@ A simple file system built in C using FUSE
 
 ## Setup instructions (Ubuntu)
 
-# Dependencies
+### Dependencies
 File System in User Space (FUSE) must be installed. 
 
 ```
@@ -11,7 +11,7 @@ sudo apt-get install libfuse-dev
 sudo apt-get install fuse
 ```
 
-# Running SFS
+### Running SFS
 
 - Compile and run sfs_setup.c using gcc
 
