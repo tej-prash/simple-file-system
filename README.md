@@ -1,5 +1,5 @@
 # simple-file-system
-A simple file system built in C using FUSE
+A simple file system (SFS) built in C using FUSE
 
 ## Setup instructions (Ubuntu)
 
